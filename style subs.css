@@ -1,0 +1,85 @@
+body
+{ 
+    border: 3px solid;
+    height: 60vh;
+    width: 92vw;
+    background-size: contain;
+}
+p{
+    font-size: 34px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+}
+.l
+{
+    background-color: rgb(123, 228, 179);
+    height: 60vh;
+    width: 92vw;
+}
+.box1
+{
+    height: 7vh;
+    width: 75vw;
+    background-color: rgb(213, 170, 241);
+}
+.box2
+{
+    height: 9vh;
+    width: 10 vw;
+    background-color: rgb(255, 0, 106);
+    display: inline;
+    font-size: 32px;
+    position: absolute;
+    left: 8vw;
+    top: 12vh;
+}.box3
+{
+    height: 4vh;
+    width: 10 vw;
+    background-color: rgb(52, 219, 37);
+    display: inline;
+    font-size: 2;
+    position: absolute;
+    left: 35vw;
+    top: 15vh;
+    border: 3px solid;
+}.box4
+{
+    height: 11vh;
+    width: 15 vw;
+    background-color: rgb(235, 195, 18);
+    display: inline;
+    font-size: 3vh;
+    position: absolute;
+    left: 70vw;
+    top: 11vh;
+}
+.box5
+{
+    height: 11vh;
+    width:24vw;
+    background-color: rgb(209, 71, 168);
+    display: inline-block;
+    font-size: 4vh;
+    position: absolute;
+    left: 8vw;
+    top: 33vh;
+}
+.box6
+{  height: 6vh;
+    width: 7vw;
+    background: url('user.jpg') no-repeat;
+    background-size: contain;
+    position: absolute;
+  left:80vw;
+  top: 2vh;
+}
+.box7
+{    height: 5vh;
+    width: 5vw;
+    background: url('add.jpg') no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 88vw;
+    top:2vh;
+}

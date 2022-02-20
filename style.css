@@ -1,0 +1,155 @@
+ 
+ /* *{
+     margin: 2vh;
+ } */
+ 
+ body{
+   background-color: whitesmoke;
+} 
+h{  
+    margin-top: 5px;
+    position: fixed;
+    margin-left: 50px;
+    background-color: whitesmoke;
+    position: fixed;
+    height:  9vh;
+    width: 90vw;
+    font-weight: 1000;
+    font-style: italic;
+    border: 5px ridge rgb(100, 135, 185);
+    text-align: center;
+    font-size: 45px;
+    padding: 0.5%;
+}
+
+
+    .one
+        
+        { 
+            background: url('netflix10.png') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 100px;
+            margin-left: 125px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+        }
+
+
+    .two
+        {   
+            background: url('prime10.png') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+        }
+        
+        
+    .three
+        {   
+            background: url('disneyhotstar5.png') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block; 
+        }
+        
+        
+    .four
+        {   
+            background: url('sonyliv8.png') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+        }
+        
+        
+    .five
+        {   
+            background: black url('Zee5.jpeg') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 125px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+        }
+        
+        
+    .six
+        {   
+            background: url('voot8.png') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+        }
+        
+        
+    .seven
+        {   
+            background: url('mxplayer10.png') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+        }
+        
+        
+    .eight
+        {   
+            background: url('altbalaji10.png') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+        }
+        
+        
+    

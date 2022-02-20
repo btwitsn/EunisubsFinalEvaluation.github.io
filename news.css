@@ -1,0 +1,165 @@
+body{
+    background-color: aquamarine;
+ } 
+ h{   margin-top: 5px;
+    position: fixed;
+    margin-left: 50px;
+    background-color: whitesmoke;
+    position: fixed;
+    height:  9vh;
+    width: 90vw;
+    font-weight: 1000;
+    font-style: italic;
+    border: 5px ridge rgb(100, 135, 185);
+    text-align: center;
+    font-size: 45px;
+    padding: 0.5%;
+ }
+ 
+ 
+ .one
+         {background: url('the economic times.jpg') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 110px;
+            margin-left: 125px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: white;
+           
+            
+             
+         }
+         .two
+         {  background: url('the times of india.jpg') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(219, 21, 21);
+         }.three
+         {   background: #1eb66a url('theprint(edited).jpg') no-repeat ;
+            
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(219, 53, 12);
+         }.four
+         {    background: #1eb66a url('bloomberg.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(8, 8, 8);
+         }.five
+         {   background: #1eb66a url('thenew york.jpg') no-repeat ;  background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 125px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: white;
+         }.six
+         {   background: #1eb66a url('swaraj.jpg') no-repeat ;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(204, 59, 59);
+         }.seven
+         {   background: #1eb66a url('moneycontrol.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: white;
+         }.eight
+         {    background: #1eb66a url('the washington.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: white;
+         }.nine
+         {   background: #1eb66a url('newslaundry.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 125px;
+            
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgba(161, 7, 7, 0.801);
+         }.ten
+         {  background: #1eb66a url('theindianexpress.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: white;
+             
+         }
+         .eleven
+         {  background: #1eb66a url('mint.jpg') no-repeat ;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(235, 162, 27);
+         }

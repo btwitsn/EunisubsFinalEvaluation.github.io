@@ -1,0 +1,149 @@
+body{
+    background-color: aquamarine;
+ } 
+ h{   margin-top: 5px;
+    position: fixed;
+    margin-left: 50px;
+    background-color: whitesmoke;
+    position: fixed;
+    height:  9vh;
+    width: 90vw;
+    font-weight: 1000;
+    font-style: italic;
+    border: 5px ridge rgb(100, 135, 185);
+    text-align: center;
+    font-size: 45px;
+    padding: 0.5%;
+ }
+ 
+ 
+ .one
+         {background: url('aakash.jpg') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 110px;
+            margin-left: 125px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: white;
+             
+         }
+         .two
+         {  background: url('allen.jpg') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: white;
+         }.three
+         {   background: #1eb66a url('avision.jpg') no-repeat ;
+            
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: white;
+         }.four
+         {    background: #1eb66a url('bansalclasses.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: white;
+         }.five
+         {   background: #1eb66a url('byju.jpg') no-repeat ;  background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 125px;
+            border-radius: 5%;
+            border: 5px solid rgb(7, 6, 7);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgba(155, 6, 147, 0.89);
+         }.six
+         {   background: #1eb66a url('eliteias.jpg') no-repeat ;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: white;
+         }.seven
+         {   background: #1eb66a url('khan academy.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(41, 23, 88);
+         }.eight
+         {    background: #1eb66a url('physicswalla.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(14, 13, 13);
+         }.nine
+         {   background: #1eb66a url('unacademy.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 125px;
+            
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: white;
+         }.ten
+         {  background: #1eb66a url('vedantu.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(238, 100, 21);
+         }
+        

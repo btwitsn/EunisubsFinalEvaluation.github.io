@@ -1,0 +1,23 @@
+.gh
+{   margin: 5vh;
+    padding: 3%;
+    background: rebeccapurple url('pop.jpg') no-repeat;
+    height:57vh;
+    width: 67vw;
+    color: rgb(24, 148, 185);
+}
+.k{ 
+    /* border: 7px solid rgb(209, 139, 157); */
+   margin-left: 24vw; 
+    height: 5%;
+    width: 15%;
+    font-weight: 900;
+    font-size: larger;
+    background-color: rgb(230, 73, 170);
+    color: rgb(45, 45, 158);
+}
+.l{ padding: 7%;  
+    height: 35vh;
+    width: 55vw;
+    background-color: antiquewhite;
+}

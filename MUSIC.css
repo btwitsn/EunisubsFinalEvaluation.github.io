@@ -1,0 +1,111 @@
+body{
+    background-color: aquamarine;
+ } 
+ h{   margin-top: 5px;
+    position: fixed;
+    margin-left: 50px;
+    background-color: whitesmoke;
+    position: fixed;
+    height:  9vh;
+    width: 90vw;
+    font-weight: 1000;
+    font-style: italic;
+    border: 5px ridge rgb(100, 135, 185);
+    text-align: center;
+    font-size: 45px;
+    padding: 0.5%;
+ }
+ 
+ 
+ .one
+         {background: url('music.jpg') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 110px;
+            margin-left: 125px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(12, 11, 11);
+             
+         }
+         .two
+         {  background: url('music2.jpg') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(12, 11, 11);
+         }.three
+         {   background: #1eb66a url('music3.jpg') no-repeat ;
+            
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: white;
+         }.four
+         {    background: #1eb66a url('ganna.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(241, 21, 21);
+         }.five
+         {   background: url('spotify.jpg') no-repeat ;  background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 125px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:31vh;
+            display: inline-block;
+            background-color: rgba(78, 194, 49, 0.932);
+         }.six
+         {   background: #1eb66a url('tidal.jpg') no-repeat ;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(12, 11, 11);
+         }.seven
+         {   background: #1eb66a url('wink.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(12, 11, 11);
+         }

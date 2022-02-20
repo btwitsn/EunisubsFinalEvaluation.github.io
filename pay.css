@@ -1,0 +1,110 @@
+body{
+    background-color: aquamarine;
+ } 
+ h{   margin-top: 5px;
+    position: fixed;
+    margin-left: 50px;
+    background-color: whitesmoke;
+    position: fixed;
+    height:  9vh;
+    width: 90vw;
+    font-weight: 1000;
+    font-style: italic;
+    border: 5px ridge rgb(100, 135, 185);
+    text-align: center;
+    font-size: 45px;
+    padding: 0.5%;
+ }
+ 
+ 
+ .one
+         {background: url('adani.jpg') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 110px;
+            margin-left: 125px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: white;
+             
+         }
+         .two
+         {  background: url('adanigas.jpg') no-repeat;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(28, 162, 185);
+         
+         }.four
+         {    background: #1eb66a url('airtel2.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: rgb(12, 11, 11);
+         }.five
+         {   background: #1eb66a url('dishtv.jpg') no-repeat ;  background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color: white;
+         }.six
+         {   background: #1eb66a url('indane.jpg') no-repeat ;
+            background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 125px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:20vh;
+            display: inline-block;
+            background-color:azure;
+         }.seven
+         {   background: #1eb66a url('jio.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color:azure;
+         }.eight
+         {    background: #1eb66a url('sbi.jpg') no-repeat ; background-position-x: center;
+            background-size: contain;
+            margin-top: 20px;
+            margin-left: 20px;
+            border-radius: 5%;
+            border: 5px solid rgb(20, 25, 30);
+            padding: 20px;
+            height: 20vh;
+            width:34.7vh;
+            display: inline-block;
+            background-color:azure;
+         }
